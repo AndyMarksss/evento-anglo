@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="D:\Documents\Programação\bitmap.png"
+   inkscape:export-xdpi="30"
+   inkscape:export-ydpi="30"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="calender.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.20283688"
+     inkscape:cx="-786.34617"
+     inkscape:cy="49.3007"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="134.2635"
+       y="420.22633"
+       width="184.65041"
+       height="98.663546"
+       id="rect11884" />
+    <rect
+       x="134.32201"
+       y="367.21906"
+       width="185.63799"
+       height="58.107641"
+       id="rect4078" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:3.50957;stroke-linejoin:round;stroke-miterlimit:30;stroke-dasharray:none;stroke-opacity:0.996078"
+       id="rect846"
+       width="195.15607"
+       height="195.15607"
+       x="10.740732"
+       y="72.360161"
+       inkscape:export-filename="D:\Pictures\calender.webp"
+       inkscape:export-xdpi="30"
+       inkscape:export-ydpi="30" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:3.35507;stroke-linejoin:round;stroke-miterlimit:11.2;stroke-dasharray:none;stroke-opacity:0.996078"
+       id="rect846-0"
+       width="195.29427"
+       height="55.823338"
+       x="10.740732"
+       y="72.360161"
+       inkscape:export-filename="D:\Pictures\calender.webp"
+       inkscape:export-xdpi="30"
+       inkscape:export-ydpi="30" />
+    <text
+       xml:space="preserve"
+       transform="matrix(1.0512723,0,0,1.0512723,-81.817586,-310.34953)"
+       id="text4076"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4078);fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="D:\Pictures\calender.webp"
+       inkscape:export-xdpi="30"
+       inkscape:export-ydpi="30"><tspan
+         x="134.32227"
+         y="403.71196"
+         id="tspan949">NOV</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(1.4559677,0,0,1.4559677,-168.45428,-497.5593)"
+       id="text11882"
+       style="font-style:normal;font-weight:normal;font-size:86.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11884);fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="D:\Pictures\calender.webp"
+       inkscape:export-xdpi="30"
+       inkscape:export-ydpi="30"><tspan
+         x="134.26367"
+         y="499.29522"
+         id="tspan951">13</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30.8867px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.772169"
+       x="73.102562"
+       y="262.18909"
+       id="text26594"
+       inkscape:export-filename="D:\Pictures\calender.webp"
+       inkscape:export-xdpi="30"
+       inkscape:export-ydpi="30"><tspan
+         sodipodi:role="line"
+         id="tspan26592"
+         style="fill:#ffffff;stroke-width:0.772169"
+         x="73.102562"
+         y="262.18909">DOM</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.772169"
+         x="73.102562"
+         y="300.79742"
+         id="tspan28344" /></text>
+  </g>
+</svg>
